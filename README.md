@@ -5,6 +5,6 @@ El baloncesto o _basketball_ en inglés ("basket" de pelota y "ball" de pelota) 
 
 ## _Reglamento del baloncesto_
 
-[![Finales de la NBA 1998 Chicago Bulls vs Utah Jazz](https://as01.epimg.net/baloncesto/imagenes/2015/05/29/nba/1432891458_126506_1432891490_noticia_grande.jpg)](https://as01.epimg.net/baloncesto/imagenes/2015/05/29/nba/1432891458_126506_1432891490_noticia_grande.jpg)
+[![Finales de la NBA 1998 Chicago Bulls vs Utah Jazz](https://as01.epimg.net/baloncesto/imagenes/2015/05/29/nba/1432891458_126506_1432891490_noticia_grande.jpg)](https://en.wikipedia.org/wiki/1998_NBA_Finals)
 
 [**James Naismith**](https://es.wikipedia.org/wiki/James_Naismith) 
