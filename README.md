@@ -5,6 +5,6 @@ El baloncesto o _basketball_ en inglés ("basket" de pelota y "ball" de pelota) 
 
 ## _Reglamento del baloncesto_
 
-![](https://imagenes.elpais.com/resizer/BXeLY5YiW4kq7F7204iXedrdWv8=/414x0/filters:focal(2338x541:2348x551)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VXNGBAXOBEWJJOJ7RPT5XACHHQ.jpg)
+![](https://as01.epimg.net/baloncesto/imagenes/2015/05/29/nba/1432891458_126506_1432891490_noticia_grande.jpg)
 
 [**James Naismith**](https://es.wikipedia.org/wiki/James_Naismith) 
