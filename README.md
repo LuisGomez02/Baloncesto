@@ -7,7 +7,7 @@ El baloncesto o _basketball_ en inglés ("basket" de pelota y "ball" de pelota) 
 
 [![Finales de la NBA 1998 Chicago Bulls vs Utah Jazz](https://as01.epimg.net/baloncesto/imagenes/2015/05/29/nba/1432891458_126506_1432891490_noticia_grande.jpg)](https://en.wikipedia.org/wiki/1998_NBA_Finals)
 
-[**James Naismith**](https://es.wikipedia.org/wiki/James_Naismith) creó unas 13 reglas básicas:
+[**James Naismith**](https://es.wikipedia.org/wiki/James_Naismith) (fundador del baloncesto) creó unas 13 reglas básicas:
 
 1. El balón puede ser lanzado en cualquier dirección, con una o dos manos.
 2. El balón puede ser palmeado/golpeado en cualquier dirección, con una o las dos manos (nunca con el puño o mano cerrada).
