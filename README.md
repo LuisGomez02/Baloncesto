@@ -5,7 +5,6 @@ El baloncesto o basketball en inglés ("basket" de pelota y "ball de pelota) con
 
 __¿Cómo se juega?__
 
-
-<img src="(https://imagenes.elpais.com/resizer/BXeLY5YiW4kq7F7204iXedrdWv8=/414x0/filters:focal(2338x541:2348x551)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VXNGBAXOBEWJJOJ7RPT5XACHHQ.jpg)" height="375" width="250">
+![](https://imagenes.elpais.com/resizer/BXeLY5YiW4kq7F7204iXedrdWv8=/414x0/filters:focal(2338x541:2348x551)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/VXNGBAXOBEWJJOJ7RPT5XACHHQ.jpg)
 
 El objetivo de 
