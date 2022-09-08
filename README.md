@@ -28,7 +28,9 @@ Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
 <img src="https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif" alt="JuveYell" width="300px">
 
 __*Frase icónica:*__
-> No puedes tener miedo de fracasar.   
-> Es la única forma en la que triunfas, no vas a triunfar siempre, lo sé. 
+> He fallado más de 9000 tiros en mi carrera.   
+> He perdido casi 300 partidos.   
+> 26 veces han confiado en mí para tomar el tiro que ganaba el partido y lo he fallado.   
+> He fracasado una y otra vez en mi vida y eso es por lo que tengo éxito.  
 
-_**Lebron James**_
+_**Michael Jordan**_
