@@ -27,5 +27,8 @@ Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
 
 <img src="https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif" alt="JuveYell" width="300px">
 
+__Frase famosa:__
+> No puedes tener miedo de fracasar. 
+> Es la única forma en la que triunfas, no vas a triunfar siempre, lo sé. 
 
-
+_**Lebron James**_
