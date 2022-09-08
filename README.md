@@ -26,3 +26,9 @@ El baloncesto o _basketball_ en inglés ("basket" de pelota y "ball" de pelota) 
 Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
 
 ![](https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif)
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif" alt="JuveYell" width="300px">
+</p>
+</div>
