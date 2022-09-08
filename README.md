@@ -31,4 +31,3 @@ Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
 </p>
 </div>
 
-<center><img src="https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif" ></center> 
