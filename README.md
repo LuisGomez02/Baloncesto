@@ -22,3 +22,5 @@ El baloncesto o _basketball_ en inglés ("basket" de pelota y "ball" de pelota) 
 11. El árbitro principal juzgará lo que se refiere al balón y determinará cuando esté en juego o ha salido fuera, a que equipo pertenece, además de llevar el control del tiempo. Decidirá cuándo se ha marcado un tanto y contabilizará las canastas y asimismo realizará las obligaciones habituales de un árbitro.
 12. El partido constará de dos partes de 15 minutos, con 5 minutos de descanso entre las mismas.
 13. El equipo que obtenga el mayor número de cestos en ese espacio de tiempo será declarado ganador. En caso de empate, si los capitanes acuerdan hacerlo, el partido se podrá continuar hasta que se marque una canasta.
+
+Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
