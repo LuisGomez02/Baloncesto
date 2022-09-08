@@ -5,4 +5,4 @@ El baloncesto o basketball en inglés ("basket" de pelota y "ball de pelota) con
 
 __¿Cómo se juega?__
 
-![](https://es.wikipedia.org/wiki/Baloncesto#/media/Archivo:Basketball_court_as_of_2012.png)
+![Cancha de Baloncesto](https://es.wikipedia.org/wiki/Baloncesto#/media/Archivo:Basketball_court_as_of_2012.png)
