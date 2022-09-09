@@ -34,3 +34,8 @@ __*Frase icónica:*__
 > He fracasado una y otra vez en mi vida y eso es por lo que tengo éxito.  
 
 _**Michael Jordan**_
+
+*Referencias Biliográficas*:  
+- Wikipedia (2022) Baloncesto. Recuperado de: https://es.wikipedia.org/wiki/Baloncesto (Revisado el 8 de setiembre del 2022)
+- Wikipedia (2022) James Naismith. Recuperado de: https://es.wikipedia.org/wiki/James_Naismith (Revisado el 8 de setiembre del 2022)
+- Psicología y Mente (2016) 80 frases de baloncesto de los mejores jugadores. Recuperado de: https://psicologiaymente.com/reflexiones/frases-baloncesto (Revisado el 8 de setiembre del 2022)
