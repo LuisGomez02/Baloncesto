@@ -36,7 +36,7 @@ __*Frase icónica:*__
 _**Michael Jordan**_ (6 veces campeón de la NBA)
 
 
-[![Tutorial de Baloncesto]()](<iframe width="1280" height="720" src="https://www.youtube.com/embed/5F_HNvP0nZY" title="¿Cómo se juega? Reglas básicas | Baloncesto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+[![Tutorial de Baloncesto](<iframe width="1280" height="720" src="https://www.youtube.com/embed/5F_HNvP0nZY" title="¿Cómo se juega? Reglas básicas | Baloncesto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)]
 
 *Referencias Biliográficas*:  
 - Wikipedia (2022) Baloncesto. Recuperado de: https://es.wikipedia.org/wiki/Baloncesto (Revisado el 8 de setiembre del 2022)
