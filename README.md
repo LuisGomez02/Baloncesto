@@ -33,7 +33,8 @@ __*Frase icónica:*__
 > 26 veces han confiado en mí para tomar el tiro que ganaba el partido y lo he fallado.   
 > He fracasado una y otra vez en mi vida y eso es por lo que tengo éxito.  
 
-_**Michael Jordan**_
+_**Michael Jordan**_ (6 veces campeón de la NBA)
+
 
 *Referencias Biliográficas*:  
 - Wikipedia (2022) Baloncesto. Recuperado de: https://es.wikipedia.org/wiki/Baloncesto (Revisado el 8 de setiembre del 2022)
