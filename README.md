@@ -23,7 +23,7 @@ El baloncesto o "_basketball_" en inglés ("basket" de pelota y "ball" de pelota
 12. El partido constará de dos partes de 15 minutos, con 5 minutos de descanso entre las mismas.
 13. El equipo que obtenga el mayor número de cestos en ese espacio de tiempo será declarado ganador. En caso de empate, si los capitanes acuerdan hacerlo, el partido se podrá continuar hasta que se marque una canasta.
 
-Lista obtenida de la página (Link: https://es.wikipedia.org/wiki/Baloncesto )
+Lista obtenida de la página [*Baloncesto*](https://es.wikipedia.org/wiki/Baloncesto )
 
 <img src="https://c.tenor.com/iLYPmFMHM_0AAAAi/dunk-de-rozan.gif" alt="JuveYell" width="300px">
 
