@@ -36,7 +36,7 @@ __*Frase icónica:*__
 _**Michael Jordan**_ (6 veces campeón de la NBA)
 
 
-![Tutorial de Baloncesto](https://www.youtube.com/embed/5F_HNvP0nZY )
+![Tutorial de Baloncesto]([https://www.youtube.com/embed/5F_HNvP0nZY ](https://youtu.be/5F_HNvP0nZY))
 
 *Referencias Biliográficas*:  
 - Wikipedia (2022) Baloncesto. Recuperado de: https://es.wikipedia.org/wiki/Baloncesto (Revisado el 8 de setiembre del 2022)
