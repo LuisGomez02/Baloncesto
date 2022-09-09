@@ -38,8 +38,6 @@ _**Michael Jordan**_ (6 veces campeón de la NBA)
 
 [Tutorial de Baloncesto](https://youtu.be/5F_HNvP0nZY)
 
-![Video](https://www.youtube.com/embed/bZwigpBrRkE)
-
 *Referencias Biliográficas*:  
 - Wikipedia (2022) Baloncesto. Recuperado de: https://es.wikipedia.org/wiki/Baloncesto (Revisado el 8 de setiembre del 2022)
 - Wikipedia (2022) James Naismith. Recuperado de: https://es.wikipedia.org/wiki/James_Naismith (Revisado el 8 de setiembre del 2022)
